@@ -1,0 +1,26 @@
+.horse {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size:15px;
+    color:black ;
+}
+
+body{
+    background-size: cover;
+    background-image:url("https://wallpapers.moviemania.io/desktop/tv/35279/e4e554/austin--ally-desktop-wallpaper.jpg?w=2552&h=1442");
+}
+.play{
+    width: 130px;
+    font-size: 25px;
+}
+.stop{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border:5px solid snow;
+    border-radius: 20px;
+}
